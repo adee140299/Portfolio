@@ -16,7 +16,7 @@
   }
   
   .hero-image {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("/media/hero-image.jpeg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("hero-image.jpeg");
     height: 100%;
     background-position:center ;
     background-repeat: no-repeat;
@@ -440,8 +440,8 @@
 }
 .division6_h1{
 padding-top: 80px;
-padding-left: 10px;
-text-align: center;
+padding-left: 30px;
+
 }
 .container4{
   display:block;
@@ -452,9 +452,10 @@ text-align: center;
   height: 300px;
   border:1px solid black;
   border-radius: 10px;
-  margin-left: 50px;
+  margin-left: 20px;
   margin-top: 30px;
   box-sizing: border-box;
+  overflow: auto;
 }
 .division6_div1_h2{
   text-align: center;
@@ -471,9 +472,10 @@ text-align: center;
   height: 300px;
   border:1px solid black;
   border-radius: 10px;
-  margin-left: 50px;
+  margin-left: 20px;
   margin-top: 30px;
   box-sizing: border-box;
+  overflow: auto;
 }
 .division6_div2_h2{
   text-align: center;
@@ -490,9 +492,10 @@ text-align: center;
   height: 300px;
   border:1px solid black;
   border-radius: 10px;
-  margin-left: 50px;
+  margin-left: 20px;
   margin-top: 30px;
   box-sizing: border-box;
+  overflow: auto;
 }
 .division6_div3_h2{
   text-align: center;
@@ -514,9 +517,9 @@ text-align: center;
 }
 .division7_h1{
   padding-top: 40px;
-  padding-left: 0px;
+  padding-left: 40px;
   padding-bottom: 40px;
-  text-align: center;
+  
   
   }
   .container5{
@@ -529,7 +532,7 @@ text-align: center;
     height: 200px;
     border: 1px solid #f1f1f1;
     perspective: 1000px;
-    margin-left:50px;
+    margin-left:30px;
     padding-bottom: 20px;
    
   }
@@ -586,7 +589,7 @@ text-align: center;
     height: 200px;
     border: 1px solid #f1f1f1;
     perspective: 1000px;
-    margin-left: 50px;
+    margin-left: 30px;
     padding-bottom: 20px;
    
   }
@@ -599,7 +602,7 @@ text-align: center;
     height: 200px;
     border: 1px solid #f1f1f1;
     perspective: 1000px;
-    margin-left: 50px;
+    margin-left: 30px;
     padding-bottom: 20px;
    
   }
@@ -612,7 +615,7 @@ text-align: center;
     height: 200px;
     border: 1px solid #f1f1f1;
     perspective: 1000px;
-    margin-left: 50px;
+    margin-left: 30px;
    
   }
   .flip-box4:hover .inner {
@@ -629,8 +632,8 @@ text-align: center;
   }
   .division8_h1{
     padding-top: 60px;
-    padding-left:30px;
-    text-align: center;
+    padding-left:60px;
+    
   }
   .division8_div1{
     width:80%;
