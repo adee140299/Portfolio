@@ -62,7 +62,7 @@
       width: 30px;
       height: 20px;
       padding-top:20px;
-      float:left;
+      float:right;
     
     }
 
@@ -108,7 +108,7 @@
       background-color: gray;
       position:relative;
       top:60px;
-      float:left;
+      float:right;
       width: 150px;
       
       
@@ -168,7 +168,7 @@
       text-decoration: none;
       position: relative;
       top:80px;
-      left:85px;
+      left:40px;
     }
     #division1_a:hover{
       background-color: rgb(231, 9, 46) ;
@@ -213,7 +213,7 @@
     .social-icon{
       position: relative;
       top:50px;
-      left:80px;
+      left:40px;
       padding: 10px;
     }
     
@@ -328,7 +328,7 @@
   font-size: 40px;
   color:white;
   padding-top:20px;
-  padding-left:40px; 
+  padding-left:30px; 
   display: block;
   
 }
@@ -358,7 +358,7 @@
   color: white;
   font-size: 40px;
   display: block;
-  margin-left: 20px;
+  margin-left: 10px;
   
   
 }
@@ -452,7 +452,7 @@ padding-left: 30px;
   height: 300px;
   border:1px solid black;
   border-radius: 10px;
-  margin-left: 20px;
+  margin-left: 30px;
   margin-top: 30px;
   box-sizing: border-box;
   overflow: auto;
@@ -472,7 +472,7 @@ padding-left: 30px;
   height: 300px;
   border:1px solid black;
   border-radius: 10px;
-  margin-left: 20px;
+  margin-left: 30px;
   margin-top: 30px;
   box-sizing: border-box;
   overflow: auto;
@@ -492,7 +492,7 @@ padding-left: 30px;
   height: 300px;
   border:1px solid black;
   border-radius: 10px;
-  margin-left: 20px;
+  margin-left: 30px;
   margin-top: 30px;
   box-sizing: border-box;
   overflow: auto;
@@ -637,7 +637,7 @@ padding-left: 30px;
   }
   .division8_div1{
     width:80%;
-    height:300px;
+    height:800px;
     border:2px solid black;
     margin-left: 40px;
     margin-bottom: 30px;
@@ -645,10 +645,11 @@ padding-left: 30px;
     background-color: wheat;
     overflow: auto;
     box-sizing: border-box;
+    padding:20px;
   }
   .division8_div2{
     width:80%;
-    height:300px;
+    height:800px;
     border:2px solid black;
     margin-left: 40px;
     margin-bottom: 30px;
@@ -656,10 +657,11 @@ padding-left: 30px;
     overflow: auto;
     background-color: wheat;
     box-sizing: border-box;
+    padding:20px;
   }
   .division8_div3{
     width:80%;
-    height:300px;
+    height:800px;
     border:2px solid black;
     margin-left: 40px;
     margin-bottom: 30px;
@@ -667,10 +669,11 @@ padding-left: 30px;
     overflow: auto;
     background-color: wheat;
     box-sizing: border-box;
+    padding:20px;
   }
   .division8_div4{
     width:80%;
-    height:300px;
+    height:500px;
     border:2px solid black;
     margin-left: 40px;
     margin-bottom: 60px;
@@ -678,6 +681,7 @@ padding-left: 30px;
     overflow: auto;
     background-color: wheat;
     box-sizing: border-box;
+    padding:20px;
   }
   .division8_div_h1{
     padding-top: 10px;
